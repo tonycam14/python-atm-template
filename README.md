@@ -1,2 +1,4 @@
-# python-atm-template
-Template for Python Course
+# Python ATM
+
+This is a template for creating a python ATM library
+
